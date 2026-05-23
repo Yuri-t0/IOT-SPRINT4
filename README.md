@@ -1,4 +1,4 @@
-# 🎉 Rolé — IA de Recomendação de Transporte
+#  Rolé — IA de Recomendação de Transporte
 
 **Disciplina:** Disruptive Architectures: IoT, IoB & Generative IA  
 **Sprint:** 4  
@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 O **Rolé** é um aplicativo social para coordenação de encontros presenciais entre amigos. A IA integrada nesta sprint **recomenda o meio de transporte ideal** para cada participante com base em variáveis contextuais, eliminando a dúvida de "como vou chegar lá?".
 
 ---
 
-## 🤖 Modelo de Inteligência Artificial
+## Modelo de Inteligência Artificial
 
 ### Problema resolvido
 Dado um participante e as condições do momento, qual é o melhor meio de transporte para ele chegar ao rolê?
@@ -42,7 +42,7 @@ Dado um participante e as condições do momento, qual é o melhor meio de trans
 
 ---
 
-## 🏗️ Arquitetura da Solução
+##  Arquitetura da Solução
 
 ```
 ┌─────────────────────────────────────────────────────────┐
@@ -65,7 +65,7 @@ Dado um participante e as condições do momento, qual é o melhor meio de trans
 
 ---
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 role-ia/
@@ -83,7 +83,7 @@ role-ia/
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 ```bash
@@ -108,7 +108,7 @@ python tests/test_api.py
 
 ---
 
-## 🔌 Integração com Oracle APEX
+##  Integração com Oracle APEX
 
 1. Acesse [apex.oracle.com](https://apex.oracle.com) e crie uma conta gratuita
 2. Crie um workspace e importe o DDL (`DDL Completo.txt`)
@@ -131,7 +131,7 @@ python tests/test_api.py
 
 ---
 
-## 📡 Documentação da API
+##  Documentação da API
 
 ### `POST /recomendar`
 
@@ -163,7 +163,7 @@ python tests/test_api.py
 
 ---
 
-## 🧪 Evidências de Testes
+##  Evidências de Testes
 
 | Cenário | Distância | Hora | Chuva | Recomendação | Confiança |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@ python tests/test_api.py
 
 ---
 
-## 🔗 Links
+##  Links
 
 - 🎥 Vídeo: *(adicionar link do YouTube)*
 - 💻 GitHub: https://github.com/JoaoSantana17/roleapl
