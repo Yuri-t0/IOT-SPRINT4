@@ -177,4 +177,4 @@ python tests/test_api.py
 ##  Links
 
 - 🎥 Vídeo: *(adicionar link do YouTube)*
-- 💻 GitHub: https://github.com/JoaoSantana17/roleapl
+- 💻 GitHub: [https://github.com/JoaoSantana17/roleapl](https://github.com/Yuri-t0/IOT-SPRINT4)
